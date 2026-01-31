@@ -8,7 +8,6 @@
 
 <br>
 
-
 <div align="center">
   <h2>
      Legal Notice ⚠️
