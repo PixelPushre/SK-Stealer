@@ -21,7 +21,7 @@ The maintainers are not responsible for any damage, harm, or misuse resulting fr
 By downloading or using this repository, the user automatically assumes FULL responsibility for their actions.</pre>
 </div>
 
----
+--- 
 
 <div align="center">
  <h1>How install</h1>
