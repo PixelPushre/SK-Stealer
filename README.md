@@ -11,7 +11,7 @@
 <div align="center">
   <h2>
      Legal Notice ⚠️
-  </h2>
+  </h2> 
  <pre>The use of stealers, malware, or any type of tool intended for unauthorized data collection is ILLEGAL
 This repository is provided exclusively for educational purposes, security study, and research.
 
