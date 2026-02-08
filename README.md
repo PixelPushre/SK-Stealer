@@ -9,7 +9,7 @@
 <br> 
  
 <div align="center">
-  <h2>
+  <h2> 
      Legal Notice ⚠️ 
   </h2>  
  <pre>The use of stealers, malware, or any type of tool intended for unauthorized data collection is ILLEGAL
