@@ -8,7 +8,7 @@
 
 <br>  
  
-<div align="center">
+<div align="center"> 
   <h2> 
      Legal Notice ⚠️ 
   </h2>  
